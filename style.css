@@ -1,0 +1,24 @@
+body {
+    background-color:black; 
+    color:blanchedalmond; 
+}
+
+h1 {
+    text-align: center; 
+    color:blanchedalmond;
+    padding: 100px 0px 0px 0px;
+}
+#hero {
+    background-image: url("https://www.inthismomentofficial.com/sites/g/files/g2000004571/f/201707/headernew.jpg");
+    width: 100%;
+    height: 400px;
+}
+p {
+    text-align: center;
+}
+a {
+    color: white;
+}
+section {
+    margin: 20px 100px;
+}
